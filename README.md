@@ -1,4 +1,4 @@
-# 👋 Hi, I’m saikumar
+#  Hi, I’m saikumar
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
